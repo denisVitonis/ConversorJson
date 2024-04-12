@@ -1,9 +1,9 @@
 {
-  "entidade": "77777777",
-  "competencia": "7777",
+  "entidade": "22",
+  "competencia": "22",
   "reclamacoes": [
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "05086003000103",
       "dataAbertura": "22-09-2023",
       "dataEncerramento": "06-10-2023",
@@ -20,12 +20,12 @@
         "identificacaoReclamante": "04225794911",
         "cep": "88117010",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "02-12-1982"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "24026114000179",
       "dataAbertura": "28-09-2023",
       "dataEncerramento": "06-10-2023",
@@ -42,12 +42,12 @@
         "identificacaoReclamante": "\t30573167869",
         "cep": "08141004",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "11-10-1973"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "04686094000155",
       "dataAbertura": "09-10--2023",
       "dataEncerramento": "19-10-2023",
@@ -64,12 +64,12 @@
         "identificacaoReclamante": "17902142204",
         "cep": "\t68585000",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "13-06-1976"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "24026114000179",
       "dataAbertura": "17-10-2023",
       "dataEncerramento": "27-10-2023",
@@ -86,12 +86,12 @@
         "identificacaoReclamante": "\t30573167869",
         "cep": "08141004",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "11-10-1973"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "09614580000181",
       "dataAbertura": "24-10-2023",
       "dataEncerramento": "03-11-2023",
@@ -108,12 +108,12 @@
         "identificacaoReclamante": "\t04181785424",
         "cep": "70680389",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "11-01-1979"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "04412954000162",
       "dataAbertura": "25-10-2023",
       "dataEncerramento": "03-11-2023",
@@ -130,12 +130,12 @@
         "identificacaoReclamante": "67260543353",
         "cep": "60841080",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "18-08-1981"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "25490244000120",
       "dataAbertura": "25-10-2023",
       "dataEncerramento": "03-11-2023",
@@ -152,12 +152,12 @@
         "identificacaoReclamante": "10710424752",
         "cep": "26180175",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "21-07-178"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "04686094000155",
       "dataAbertura": "25-10-2023",
       "dataEncerramento": "01-11-2023",
@@ -174,12 +174,12 @@
         "identificacaoReclamante": "\t\t94875472587",
         "cep": "44900000",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "30-10-1970"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "04686094000155",
       "dataAbertura": "27-10-2023",
       "dataEncerramento": "06-11-2023",
@@ -196,12 +196,12 @@
         "identificacaoReclamante": "\t79866808149",
         "cep": "\t77960000",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "15-02-1972"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "24026114000179",
       "dataAbertura": "22-11-2023",
       "dataEncerramento": "30-11-2023",
@@ -218,12 +218,12 @@
         "identificacaoReclamante": "37944760852  ",
         "cep": "08141630",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "05-09-1999"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "25490244000120",
       "dataAbertura": "22-11-2023",
       "dataEncerramento": "01-12-2023",
@@ -240,12 +240,12 @@
         "identificacaoReclamante": "\t10710424752",
         "cep": "\t26180175",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "21-07-178"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "44705886000144",
       "dataAbertura": "07-12-2023",
       "dataEncerramento": "22-12-2023",
@@ -262,12 +262,12 @@
         "identificacaoReclamante": "48027707153",
         "cep": "70640035",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "15-07-1968"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "34238480000145",
       "dataAbertura": "20-12-2023",
       "dataEncerramento": "29-12-2023",
@@ -284,12 +284,12 @@
         "identificacaoReclamante": "03583295234",
         "cep": "76850000",
         "sexo": "m",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "01-01-1970"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "24026114000179",
       "dataAbertura": "21-12-2023",
       "dataEncerramento": "null",
@@ -306,12 +306,12 @@
         "identificacaoReclamante": "18584524819",
         "cep": "07090160",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "10-03-1971"
       }
     },
     {
-      "registro": "1",
+      "registro": 1,
       "identificacaoResponsavel": "74121864000106",
       "dataAbertura": "27-12-2023",
       "dataEncerramento": "null",
@@ -328,7 +328,7 @@
         "identificacaoReclamante": "15608567854",
         "cep": "08220831",
         "sexo": "f",
-        "tipo": "1",
+        "tipo": 1,
         "dataNascimento": "10-03-1972"
       }
     }

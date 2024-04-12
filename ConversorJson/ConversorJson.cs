@@ -123,7 +123,15 @@ namespace ConversorJson
             string jsonText = Newtonsoft.Json.JsonConvert.SerializeObject(json, Newtonsoft.Json.Formatting.Indented);
 
             // Defina o caminho para o arquivo JSON na pasta "arquivos_convertidos"
-            string pastaArquivosConvertidos = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName, "arquivos_convertidos");
+            // string pastaArquivosConvertidos = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName, "arquivos_convertidos");
+            // Directory.CreateDirectory(pastaArquivosConvertidos); // Certifique-se de que a pasta existe
+
+            // Defina o caminho para o arquivo JSON na pasta "arquivos_convertidos"
+            // string pastaArquivosConvertidos = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName, "VitoniSoft", "arquivos_convertidos");
+            // Directory.CreateDirectory(pastaArquivosConvertidos); // Certifique-se de que a pasta existe
+
+            // Defina o caminho para o arquivo JSON na pasta "arquivos_convertidos" dentro de "Documents" no diretório do usuário
+            string pastaArquivosConvertidos = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "arquivos_convertidos");
             Directory.CreateDirectory(pastaArquivosConvertidos); // Certifique-se de que a pasta existe
 
             string nomeArquivo = $"arquivo_{entidade}_{competencia}.json";

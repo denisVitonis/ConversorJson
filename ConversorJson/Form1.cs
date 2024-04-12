@@ -38,7 +38,7 @@ namespace ConversorJson
                 if (jsonString != null)
                 {
                     // Exibe a string JSON em uma nova janela
-                    MessageBox.Show(jsonString, "JSON Convertido", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show(jsonString, "CSV Convertido para JSON (Vitonis)", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else
                 {

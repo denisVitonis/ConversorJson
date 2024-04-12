@@ -15,6 +15,7 @@
 
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txtCsvFilePath = new System.Windows.Forms.TextBox();
             this.txtEntidade = new System.Windows.Forms.TextBox();
             this.txtCompetencia = new System.Windows.Forms.TextBox();
@@ -23,6 +24,8 @@
             this.lblCompetencia = new System.Windows.Forms.Label();
             this.btnConvert = new System.Windows.Forms.Button();
             this.btnBrowse = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtCsvFilePath
@@ -86,14 +89,25 @@
             // 
             this.btnBrowse.Location = new System.Drawing.Point(218, 30);
             this.btnBrowse.Name = "btnBrowse";
-            this.btnBrowse.Size = new System.Drawing.Size(75, 23);
+            this.btnBrowse.Size = new System.Drawing.Size(105, 23);
             this.btnBrowse.TabIndex = 1;
-            this.btnBrowse.Text = "Browse";
+            this.btnBrowse.Text = "Buscar Csv";
             this.btnBrowse.Click += new System.EventHandler(this.btnBrowse_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(382, 32);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 99);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(512, 210);
+            this.ClientSize = new System.Drawing.Size(504, 188);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnConvert);
             this.Controls.Add(this.txtCompetencia);
             this.Controls.Add(this.lblCompetencia);
@@ -102,9 +116,13 @@
             this.Controls.Add(this.btnBrowse);
             this.Controls.Add(this.txtCsvFilePath);
             this.Controls.Add(this.lblCsvFilePath);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Conversor CSV para JSON";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Conversor CSV para JSON (Vitonis)";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -118,5 +136,6 @@
         private System.Windows.Forms.Label lblCompetencia;
         private System.Windows.Forms.Button btnConvert;
         private System.Windows.Forms.Button btnBrowse;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorJson", "ConversorJson\ConversorJson.csproj", "{247E5706-8CD6-4466-91B1-4859E69B929C}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorCsv2Json", "..\InstaladorCsv2Json\InstaladorCsv2Json\InstaladorCsv2Json.vdproj", "{E3CA5178-8757-4E81-9946-DE4B9E61B2E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,8 +15,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{247E5706-8CD6-4466-91B1-4859E69B929C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
 		{247E5706-8CD6-4466-91B1-4859E69B929C}.Debug|Any CPU.Build.0 = Release|Any CPU
-		{247E5706-8CD6-4466-91B1-4859E69B929C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{247E5706-8CD6-4466-91B1-4859E69B929C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{247E5706-8CD6-4466-91B1-4859E69B929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247E5706-8CD6-4466-91B1-4859E69B929C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CA5178-8757-4E81-9946-DE4B9E61B2E5}.Debug|Any CPU.ActiveCfg = Debug
+		{E3CA5178-8757-4E81-9946-DE4B9E61B2E5}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

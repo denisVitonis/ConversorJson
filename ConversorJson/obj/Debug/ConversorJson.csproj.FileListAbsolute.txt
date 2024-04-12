@@ -1,0 +1,13 @@
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\bin\Debug\ConversorJson.exe.config
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\bin\Debug\ConversorJson.exe
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\bin\Debug\ConversorJson.pdb
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.csproj.AssemblyReference.cache
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.Form1.resources
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.Properties.Resources.resources
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.csproj.GenerateResource.cache
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.csproj.CoreCompileInputs.cache
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\Converso.795FB580.Up2Date
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.exe
+C:\Users\Vitonis\Documents\csharp_.net\conversorJson\ConversorJson\ConversorJson\obj\Debug\ConversorJson.pdb
